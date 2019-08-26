@@ -7,14 +7,10 @@ navtitle: Home
 tags:
   - nav
 ---
-# Welcome
+# Bennett's Future Website
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+This site is currently under construction. Before I learned proper web development I just whipped up a quick Wordpress site to start blogging my coding journey. Well, now Im a little more savvy and will be using Netlify and some more fancy features in the near future. 
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+If you somehow got here before the site was finished, please visit [bennettdungan.com](https://www.bennettdungan.com)
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on Github.
-
-Or click the button below to deploy your own copy of this project to Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+See ya! :)
