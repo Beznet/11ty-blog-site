@@ -7,7 +7,7 @@ navtitle: Home
 tags:
   - nav
 ---
-# Bennett's Future Website
+# Welcome!
 
 This site is currently under construction. Before I learned proper web development I just whipped up a quick Wordpress site to start blogging my coding journey. Well, now Im a little more savvy and will be using Netlify and some more fancy features in the near future. 
 
