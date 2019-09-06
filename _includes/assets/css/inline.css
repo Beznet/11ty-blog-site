@@ -1,7 +1,8 @@
 :root {
-	--background: rgb(202, 243, 229);
+	--background: rgb(247, 249,  );
 	--white: white;
-	--blue: rgb(96, 138, 177);
+	--blue: rgb(91, 195, 235);
+	--orange: rgb(243, 117, 101);
 }
 
 *, *:before, *:after {
@@ -22,12 +23,19 @@ body {
 	background-color: var(--background);
 }
 
+header {
+	width: 100%;
+	background-color: var(--blue);
+}
+
 main {
 	max-width: 37.5em;
+	max-width: 700px;
+	margin: 0 auto;
 }
 
 title {
-	color: --blue;
+	color: var(--white);
 }
 
 p,
@@ -47,7 +55,7 @@ a:after {
   bottom: 0;
   left: 0;
   width: 0%;
-  border-bottom: 2px solid var(--blue);
+  border-bottom: 2px solid var(--white);
   transition: 0.4s;
 }
 
@@ -57,7 +65,7 @@ a:hover:after {
 
 a[href],
 a[href]:visited {
-	color: var(--blue);
+	color: var(--white);
 }
 
 a[href]:not(:hover) {
@@ -106,11 +114,16 @@ header > em {
 	display: block;
 	font-size: 2em;
 	margin: .67em 0;
+	text-align: center;
 	font-weight: bold;
 	font-style: normal;
 }
 
 /* Header Nav */
+header nav {
+	text-align: center;
+}
+
 header nav ul :first-child {
 	margin-left: 0;
 }
@@ -155,15 +168,15 @@ a[rel="tag"]:visited {
 	height: 2em;
   border: 1px solid var(--white);
 	background-color: var(--white);
-	color: var(--blue);
+	border: 1px solid var(--orange);
+	color: var(--orange);
   border-radius: .25em;
   text-decoration: none;
 	margin: 0 .5em .5em 0;
 }
 
 a[rel="tag"]:hover {
-	border: 1px solid var(--blue);
-	background-color: var(--blue);
+	background-color: var(--orange);
 	color: var(--white);
 }
 
@@ -196,9 +209,17 @@ textarea {
 	border: 1px solid black;
 }
 
+.postTitle > a[href]{
+	color: var(--blue);
+}
+
+footer {
+	color: var(--blue);
+}
+
 button {
-	border: 1px solid var(--blue);
-	background-color: var(--blue);
+	border: 1px solid var(--orange);
+	background-color: var(--orange);
 	color: var(--white);
 	cursor: pointer;
 }
