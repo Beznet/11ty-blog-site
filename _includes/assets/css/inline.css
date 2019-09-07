@@ -38,6 +38,10 @@ title {
 	color: var(--white);
 }
 
+title:hover {
+	background-color: var(--orange);
+}
+
 p,
 pre,
 code {
@@ -48,6 +52,9 @@ a {
   text-decoration: none;
 	position: relative;
 }
+
+
+/* Use this for underlining stuff on hover
 
 a:after {
   content: '';
@@ -61,10 +68,9 @@ a:after {
 
 a:hover:after {
   width: 100%;
-}
+} */
 
-a[href],
-a[href]:visited {
+a[href] {
 	color: var(--white);
 }
 
@@ -142,6 +148,13 @@ header nav li a[data-current="current item"] {
 	text-decoration: underline;
 }
 
+li > a:hover {
+	color: var(--orange);
+	font-weight: bold;
+	transition: 0.2s;
+
+}
+
 /* Posts List */
 article {
 	margin-bottom: 1em;
@@ -213,8 +226,8 @@ textarea {
 	color: var(--blue);
 }
 
-footer {
-	color: var(--blue);
+footer, footer a {
+	color: var(--blue) !important;
 }
 
 button {

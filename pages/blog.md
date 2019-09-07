@@ -1,6 +1,6 @@
 ---
 layout: layouts/blog.njk
-title: Blog
+title:
 tags:
   - nav
 navtitle: Blog
