@@ -1,5 +1,6 @@
 <!doctype html>
 <html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
+<script src="https://kit.fontawesome.com/d388d51ead.js"></script>
 
 	{% include "components/head.njk" %}
 
@@ -11,6 +12,13 @@
 			</em>
 			{% include "components/nav.njk" %}
 		</header>
+		<br>
+		<aside class='social'>
+			<i class="fab fa-twitter"></i>
+			<i class="fab fa-github"></i>
+			<i class="fab fa-instagram"></i>
+			<i class="fab fa-linkedin-in"></i>
+		</aside>
 
 		<main>
 			{{ layoutContent | safe }}
