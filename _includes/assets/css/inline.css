@@ -38,6 +38,15 @@ main {
 
 .social {
 	grid-area: social;
+	margin: 17.6px auto auto 20px;
+}
+
+.social > .fab {
+	display: block;
+	padding: 5px;
+	font-size: 30px;
+	color: var(--orange);
+
 }
 
 footer {
@@ -95,7 +104,6 @@ footer {
 }
 
 main {
-	padding-bottom: 2em;
 }
 
 main :first-child,
