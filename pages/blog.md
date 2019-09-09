@@ -1,6 +1,6 @@
 ---
 layout: layouts/blog.njk
-title:
+title: Insights and Ramblings
 tags:
   - nav
 navtitle: Blog
