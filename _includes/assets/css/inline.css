@@ -12,13 +12,14 @@
 html,
 body {
 	padding: 0;
+	height: 100vh;
 	margin: 0;
 	font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
 
 body {
 	display: grid;
-	grid-template-rows: auto;
+	grid-template-rows: 20% auto auto;
 	grid-template-columns: 25% 25% 25% 25%;
 	grid-template-areas: 
 		"header header header header"
@@ -38,7 +39,7 @@ main {
 
 .social {
 	grid-area: social;
-	margin: 17.6px auto auto 20px;
+	margin: 17.6px 30px auto auto;
 }
 
 .social > .fab {
@@ -46,11 +47,11 @@ main {
 	padding: 5px;
 	font-size: 30px;
 	color: var(--orange);
-
 }
 
 footer {
 	grid-area: footer;
+	margin-top: auto;
 }
 
 title {
