@@ -19,7 +19,7 @@ body {
 
 body {
 	display: grid;
-	grid-template-rows: auto;
+	grid-template-rows: auto 1fr;
 	grid-template-columns: 25% 25% 25% 25%;
 	grid-template-areas: 
 		"header header header header"
@@ -55,9 +55,6 @@ main {
 
 footer {
 	grid-area: footer;
-	margin-top: auto;
-	position: absolute;
-	bottom: 0;
 }
 
 title {
