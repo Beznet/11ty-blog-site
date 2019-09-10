@@ -1,5 +1,5 @@
 :root {
-	--background: rgb(247, 249,  );
+	--background: rgb(247, 249, 249);
 	--white: white;
 	--blue: rgb(91, 195, 235);
 	--orange: rgb(243, 117, 101);
@@ -19,7 +19,7 @@ body {
 
 body {
 	display: grid;
-	grid-template-rows: 20% auto auto;
+	grid-template-rows: auto;
 	grid-template-columns: 25% 25% 25% 25%;
 	grid-template-areas: 
 		"header header header header"
@@ -31,6 +31,8 @@ body {
 header {
 	grid-area: header;
 	background-color: var(--blue);
+	box-shadow: rgba(66, 62, 55, 0.75) 1px 0px 5px 0px;
+	max-height: 160px;
 }
 
 main {
@@ -42,7 +44,7 @@ main {
 	margin: 20px 30px auto auto;
 }
 
-.social > .fab {
+.social > .fab, .social > .fas {
 	display: block;
 	padding: 5px;
 	font-size: 25px;
@@ -73,27 +75,6 @@ a {
 	position: relative;
 }
 
-
-/* Use this for underlining stuff on hover
-
-a:after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 0%;
-  border-bottom: 2px solid var(--white);
-  transition: 0.4s;
-}
-
-a:hover:after {
-  width: 100%;
-} */
-
-a[href] {
-	color: var(--white);
-}
-
 a[href]:not(:hover) {
 	text-decoration: none;
 }
@@ -102,9 +83,6 @@ header,
 main,
 footer {
 	padding: 1em;
-}
-
-main {
 }
 
 main :first-child,
@@ -164,7 +142,10 @@ header nav li a[href]:not(:hover) {
 
 header nav li a[data-current="current item"] {
 	font-weight: 700;
-	text-decoration: underline;
+}
+
+header a[href] {
+	color: var(--background);
 }
 
 li > a:hover {
