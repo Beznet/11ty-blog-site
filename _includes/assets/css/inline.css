@@ -25,6 +25,7 @@ body {
 		"header header header header"
 		"social main main ."
 		"footer footer footer footer";
+	align-content: start;
 	background-color: var(--background);
 }
 
@@ -37,6 +38,7 @@ header {
 
 main {
 	grid-area: main;
+	align-content: start;
 }
 
 .social {
@@ -54,6 +56,8 @@ main {
 footer {
 	grid-area: footer;
 	margin-top: auto;
+	position: absolute;
+	bottom: 0;
 }
 
 title {
