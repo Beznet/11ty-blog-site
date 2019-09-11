@@ -29,6 +29,20 @@ body {
 	background-color: var(--background);
 }
 
+@media (max-width: 768px){
+	body {
+		display: grid;
+		grid-template-rows: auto 1fr;
+		grid-template-columns: auto;
+		grid-template-areas: 
+			"header header header"
+			"social main main"
+			"footer footer footer";
+		align-content: start;
+		background-color: var(--background);
+	}
+}
+
 header {
 	grid-area: header;
 	background-color: var(--blue);
@@ -52,6 +66,24 @@ main {
 	font-size: 25px;
 	color: var(--orange);
 }
+
+@media (max-width: 768px){
+	.social {
+		margin: 20px 10px auto 10px;
+	}
+}
+
+@media (max-width: 576px){
+	.social {
+		margin: 20px 10px auto 10px;
+	}
+
+	.social > .fab, .social > .fas {
+		font-size: 20px;
+		color: var(--orange);
+	}
+}
+
 
 .social > .fab:hover, .social > .fas:hover {
 	transform: scale(1.5);
