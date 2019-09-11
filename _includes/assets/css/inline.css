@@ -53,6 +53,11 @@ main {
 	color: var(--orange);
 }
 
+.social > .fab:hover, .social > .fas:hover {
+	transform: scale(1.5);
+	transition: transform 100ms;
+}
+
 footer {
 	grid-area: footer;
 }
