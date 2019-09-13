@@ -23,7 +23,7 @@ body {
 	grid-template-columns: 25% 25% 25% 25%;
 	grid-template-areas: 
 		"header header header header"
-		"social main main ."
+		". main main ."
 		"footer footer footer footer";
 	align-content: start;
 	background-color: var(--background);
@@ -44,6 +44,7 @@ body {
 }
 
 header {
+	display: inline-block;
 	grid-area: header;
 	background-color: var(--blue);
 	box-shadow: rgba(66, 62, 55, 0.75) 1px 0px 5px 0px;
@@ -52,35 +53,36 @@ header {
 
 main {
 	grid-area: main;
-	align-content: start;
+	margin-left: auto;
+	margin-right: auto;
+	padding: auto;
 }
 
 .social {
-	grid-area: social;
-	margin: 20px 30px auto auto;
+	position: absolute;
+	margin: 0px;
 }
 
 .social > .fab, .social > .fas {
-	display: block;
-	padding: 5px;
-	font-size: 25px;
-	color: var(--orange);
+	padding: 2px;
+	font-size: 20px;
+	color: var(--background);
 }
 
 @media (max-width: 768px){
 	.social {
-		margin: 20px 10px auto 10px;
+		display: inline-grid;
 	}
 }
 
 @media (max-width: 576px){
+	#siteTitle {
+		font-size: 0.8em;
+	}
 	.social {
-		margin: 20px 10px auto 10px;
 	}
 
 	.social > .fab, .social > .fas {
-		font-size: 20px;
-		color: var(--orange);
 	}
 }
 
@@ -88,6 +90,7 @@ main {
 .social > .fab:hover, .social > .fas:hover {
 	transform: scale(1.5);
 	transition: transform 100ms;
+	color: var(--orange)
 }
 
 footer {
