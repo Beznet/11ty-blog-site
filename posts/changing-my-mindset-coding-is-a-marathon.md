@@ -5,7 +5,8 @@ summary: >-
   I used to hold this idea that learning code was something that I needed to
   plunge full force into. Spend hours each day coding until...
 tags:
-  - blog coding
+  - blog
+  - coding
 ---
 ![long_road_picture](/static/img/robert-murray-655051-unsplash-1200x800.jpg)
 
