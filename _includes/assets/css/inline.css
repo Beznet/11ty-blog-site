@@ -58,6 +58,10 @@ main {
 	padding: auto;
 }
 
+p > img {
+	width: 100%;
+}
+
 .social {
 	float: right;
 }
