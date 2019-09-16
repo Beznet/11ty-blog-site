@@ -72,6 +72,10 @@ p > img {
 }
 
 @media (max-width: 576px){
+	header {
+		padding: 0em !important;
+	}
+
 	#siteTitle {
 		font-size: 0.8em;
 	}
