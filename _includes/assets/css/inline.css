@@ -79,6 +79,10 @@ p > img {
 	h1 {
 		font-size: 1.5em;
 	}
+
+	.social > .fab, .social > .fas {
+		font-size: 20px;
+	}
 }
 
 
@@ -244,8 +248,7 @@ form label {
 }
 
 input,
-textarea,
-button {
+textarea {
   width: 100%;
   padding: 1em;
   margin-bottom: 1em;
@@ -267,8 +270,15 @@ footer, footer a {
 }
 
 button {
+	max-width: 30%;
+  padding: 0.5em;
+	font-size: 1em;
+	font-family: "Avenir", "Avenir Next", sans-serif;
+	text-align: center;
 	border: 1px solid var(--orange);
+	border-radius: 5px;
 	background-color: var(--orange);
+	box-shadow: rgba(66, 62, 55, 0.75) 0px 2px 5px 0px;
 	color: var(--white);
 	cursor: pointer;
 }
