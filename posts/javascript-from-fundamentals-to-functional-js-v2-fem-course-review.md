@@ -1,6 +1,6 @@
 ---
 title: 'JavaScript: From Fundamentals to Functional JS V2- FEM Course Review'
-date: 2019-09-17T14:39:08.032Z
+date: 2019-06-15T14:39:08.032Z
 summary: >-
   I just finished Bianca Gandolfo's 'JavaScript: From Fundamentals to Functional
   JS, v2' course on Front End Masters a couple weeks ago and figured I would
