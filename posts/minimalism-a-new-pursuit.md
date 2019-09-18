@@ -1,6 +1,6 @@
 ---
 title: 'Minimalism: A New Pursuit'
-date: 2019-09-14T21:21:34.134Z
+date: 2019-03-30T21:21:34.134Z
 summary: >-
   I've never been one to acquire an abundance of things.  I still  drive the
   first car I've ever owned, a 1999 Toyota Camry. I've only had 4 phones
