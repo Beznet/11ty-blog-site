@@ -1,6 +1,6 @@
 ---
 title: Starting a Youtube Coding Series
-date: 2019-09-18T01:40:23.682Z
+date: 2019-06-24T01:40:23.682Z
 summary: >-
   After writing up my last tutorial, I started toying with the idea that
   creating a Youtube tutorial might be a bit quicker and easier way to approach
