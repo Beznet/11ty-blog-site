@@ -1,6 +1,6 @@
 ---
 title: 'Build a REST API with Node, Express & MongoDB!'
-date: 2019-09-18T02:14:37.783Z
+date: 2019-07-30T02:14:37.783Z
 summary: >-
   In this project we will be creating a way for people to subscribe, update,
   retrieve and delete data on Youtube accounts. We’ll do this by coding a REST
