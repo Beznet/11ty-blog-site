@@ -84,6 +84,10 @@ p > img {
 		font-size: 1.5em;
 	}
 
+	footer {
+		display: grid;
+	}
+
 	.social > .fab, .social > .fas {
 		font-size: 20px;
 	}
