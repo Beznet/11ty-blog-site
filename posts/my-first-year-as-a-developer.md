@@ -12,27 +12,27 @@ tags:
 ---
 I officially hit my year anniversary as a web application developer back in September. It’s one of those years that felt like it flew by but also dragged on seemingly forever. The amount of things I’ve learned this year already out-paces my 2 other jobs in sales and marketing combined. Most jobs I’ve had in the past usually takes 2-3 months of training before you feel like you have a solid grasp of the skillset and business. I still feel like I'm in that training phase after 12 months as a dev.
 
-The above may read like I'm being a bit cynical and a bit of me sort of is. It kind of sucks being stuck in this desert of despair phase for so long and not really knowing when you’ll see light at the end of the tunne. On the other side of the coin, I’ve gained an immense amount of appreciation for the work developers at all levels do. Im grateful every day to have been given a chance to change my career trajectory in a field so full of insanely intelligent and motivated individuals. The amount of information I’ve gained in just a year’s time is pretty astounding when I think about it, even though I still feel inadequate in some capacity. I’ve never listed all the languages, libraries, tools and frameworks I’ve come to work with over the year so here’s everything that I can remember off the top of my head:
+The above may read like I'm being a bit cynical and a bit of me sort of is. It kind of sucks being stuck in this desert of despair phase for so long and not really knowing when you’ll see light at the end of the tunnel. On the other side of the coin, I’ve gained an immense amount of appreciation for the work developers at all levels do. Im grateful every day to have been given a chance to change my career trajectory in a field so full of insanely intelligent and motivated individuals. The amount of information I’ve gained in just a year’s time is pretty astounding when I think about it, even though I still feel inadequate in some capacity. I’ve never listed all the languages, libraries, tools and frameworks I’ve come to work with over the year so here’s everything that I can remember off the top of my head:
 
-* Docker
-* Insomnia
-* HAML
-* Ruby on Rails
-* Coffee Script
-* MongoDB
-* Postgres
-* NextJS
-* React
-* Express
-* NodeJS
-* GraphQL
-* SASS
-* AWS
-* MySQL
-* Hapi/Joi
-* Lodash
-* Bootstrap
-* Reactstrap
+1. Docker
+2. Insomnia
+3. HAML
+4. Ruby on Rails
+5. Coffee Script
+6. MongoDB
+7. Postgres
+8. NextJS
+9. React
+10. Express
+11. NodeJS
+12. GraphQL
+13. SASS
+14. AWS
+15. MySQL
+16. Hapi/Joi
+17. Lodash
+18. Bootstrap
+19. Reactstrap
 
 This is not to say I'm proficient at all the above, but I’ve had to touch and use all of the things you see at varying degrees in the past 12 months. Not to mention there’s all the business specific knowledge you also need to know in order to operate in the healthcare industry.
 
