@@ -1,5 +1,5 @@
 ---
-title: My First Year as a Developer
+title: 'Analysis: My First Year as a Developer'
 date: 2019-11-13T04:15:07.836Z
 summary: >-
   I officially hit my year anniversary as a web application developer back in
@@ -24,12 +24,12 @@ The above may read like I'm being a bit cynical and a bit of me sort of is. It k
 8. NextJS
 9. React
 10. Express
-11. NodeJS
-12. GraphQL
-13. SASS
-14. AWS
-15. MySQL
-16. Hapi/Joi
+11. Hapi
+12. NodeJS
+13. GraphQL
+14. SASS
+15. AWS
+16. SQL
 17. Lodash
 18. Bootstrap
 19. Reactstrap
