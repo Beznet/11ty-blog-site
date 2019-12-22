@@ -1,6 +1,6 @@
 ---
 title: Legacy without Ego
-date: 2019-10-05T18:51:45.564Z
+date: 2019-12-22T02:44:00.000Z
 summary: >-
   I’ve been thinking a lot more about what I’d like to leave behind for future
   generations. Big opening statement I know, but it’s been something that’s
