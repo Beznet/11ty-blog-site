@@ -1,10 +1,14 @@
 ---
 title: I Think Therefore I Am Not
 date: 2020-12-06T23:40:40.414Z
-summary: If you think about yourself from an outside perspective, you probably
-  have a few attributes tied to your person that immediately come to mind.
+summary: What has been most helpful and fascinating to me as of late is
+  exploring how I can disassociate from these attributes and think of myself as
+  an outside observer just having different experiences. It takes the burden of
+  trying to live up to a certain standard that only comes from these labels.
+  It’s not easy, trying to look at yourself as someone who isn’t anything...
 tags:
   - philosophy
+  - pixelart
 ---
 I’ve been chewing on this thought for awhile now, it's one of those things that you have in the back of your mind but never really give it full attention. A recent podcast episode I listened to with Naval Ravikant really brought this somewhat shrouded thought to the forefront of my attention.
 
