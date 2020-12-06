@@ -1,5 +1,5 @@
 ---
-title: Speak Clearly - 3rd Person Technique
+title: Speak Clearly
 date: 2020-04-12T17:09:10.722Z
 summary: For the majority of my life I've been a much better communicator
   through written mediums vs verbal interactions. Just being able to think about
