@@ -20,7 +20,6 @@ Since I have started disassociating from attributes I characterize myself as for
 
 As a testament to my own philosophy of all this, I thought it would be fun to illustrate this mental model in pixel art. I created one image called “Static Identity” which is alluding to the restrictions we put on ourselves when we hold onto identities and do not look outside of those boundaries. The other opposing image is called “Dynamic Identity” which shows how we view ourselves as an ever changing flow of ideas and interests. Normally, just writing an article about these thoughts would have been the nail in the coffin for my blog but I'm finding an immense amount of joy in trying to interpret these ideas into an image. So go ahead and smash those preconceived notions you’ve had about yourself, you might find yourself drifting in a direction that you didn't realize was possible. 
 
-
-![](/static/img/static-identity.png)
+![static identity](/static/img/static-identity.png)
 
 ![dynamic identity](/static/img/dynamic-identity.png)
