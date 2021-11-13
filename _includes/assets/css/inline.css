@@ -1,259 +1,269 @@
 :root {
-	--background: rgb(247, 249, 249);
-	--white: white;
-	--blue: rgb(91, 195, 235);
-	--orange: rgb(243, 117, 101);
+  --background: rgb(247, 249, 249);
+  --white: white;
+  --blue: rgb(91, 195, 235);
+  --orange: rgb(243, 117, 101);
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: border-box;
 }
 
 html,
 body {
-	padding: 0;
-	height: 100vh;
-	margin: 0;
-	font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  padding: 0;
+  height: 100vh;
+  margin: 0;
+  font-family: 'Avenir', 'Avenir Next', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica,
+    Arial, sans-serif;
 }
 
 body {
-	display: grid;
-	grid-template-rows: auto 1fr;
-	grid-template-columns: 25% 25% 25% 25%;
-	grid-template-areas: 
-		"header header header header"
-		". main main ."
-		"footer footer footer footer";
-	align-content: start;
-	background-color: var(--background);
+  display: grid;
+  grid-template-rows: auto 1fr;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-template-areas:
+    'header header header header'
+    '. main main .'
+    'footer footer footer footer';
+  align-content: start;
+  background-color: var(--background);
 }
 
-@media (max-width: 768px){
-	body {
-		display: grid;
-		grid-template-rows: auto 1fr;
-		grid-template-columns: auto;
-		grid-template-areas: 
-			"header header header"
-			"main main main"
-			"footer footer footer";
-		align-content: start;
-		background-color: var(--background);
-	}
+@media (max-width: 768px) {
+  body {
+    display: grid;
+    grid-template-rows: auto 1fr;
+    grid-template-columns: auto;
+    grid-template-areas:
+      'header header header'
+      'main main main'
+      'footer footer footer';
+    align-content: start;
+    background-color: var(--background);
+  }
 }
 
 header {
-	display: inline-block;
-	grid-area: header;
-	background-color: var(--blue);
-	box-shadow: rgba(66, 62, 55, 0.75) 1px 0px 5px 0px;
-	max-height: 160px;
+  display: inline-block;
+  grid-area: header;
+  background-color: var(--blue);
+  box-shadow: rgba(66, 62, 55, 0.75) 1px 0px 5px 0px;
+  max-height: 160px;
 }
 
 main {
-	grid-area: main;
-	margin-left: auto;
-	margin-right: auto;
-	padding: auto;
+  grid-area: main;
+  margin-left: auto;
+  margin-right: auto;
+  padding: auto;
 }
 
 p > img {
-	width: 100%;
+  width: 100%;
 }
 
 iframe {
-	width: 80%;
-	height: 350px;
+  width: 80%;
+  height: 350px;
 }
 
 .social {
-	float: right;
+  float: right;
 }
 
-.social > .fab, .social > .fas {
-	padding: 2px;
-	font-size: 25px;
+.social > .fab,
+.social > .fas {
+  padding: 2px;
+  font-size: 25px;
 }
 
-@media (max-width: 576px){
-	header {
-		padding: 0em !important;
-	}
+@media (max-width: 576px) {
+  header {
+    padding: 0em !important;
+  }
 
-	#siteTitle {
-		font-size: 0.8em;
-	}
+  #siteTitle {
+    font-size: 0.8em;
+  }
 
-	h1 {
-		font-size: 1.5em;
-	}
+  h1 {
+    font-size: 1.5em;
+  }
 
-	footer {
-		display: grid;
-	}
+  footer {
+    display: grid;
+  }
 
-	.social > .fab, .social > .fas {
-		font-size: 20px;
-	}
+  .social > .fab,
+  .social > .fas {
+    font-size: 20px;
+  }
 }
 
+.social > .fab:hover,
+.social > .fas:hover {
+  transform: scale(1.5);
+  transition: transform 100ms;
+  color: var(--orange);
+}
 
-.social > .fab:hover, .social > .fas:hover {
-	transform: scale(1.5);
-	transition: transform 100ms;
-	color: var(--orange)
+.emailButton:hover {
+  transform: scale(1.2);
+  transition: transform 100ms;
+  background-color: var(--blue);
 }
 
 footer {
-	grid-area: footer;
+  grid-area: footer;
 }
 
 title {
-	color: var(--white);
+  color: var(--white);
 }
 
 title:hover {
-	background-color: var(--orange);
+  background-color: var(--orange);
 }
 
 p,
 pre,
 code {
-	line-height: 1.5;
+  line-height: 1.5;
 }
 
 a {
   text-decoration: none;
-	position: relative;
+  position: relative;
 }
 
 a[href]:not(:hover) {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 header,
 main,
 footer {
-	padding: 1em;
+  padding: 1em;
 }
 
 main :first-child,
 main > article :first-child {
-	margin-top: 0;
+  margin-top: 0;
 }
 
 pre {
-	font-size: 14px;
-	direction: ltr;
-	text-align: left;
-	white-space: pre;
-	word-spacing: normal;
-	word-break: normal;
-	-moz-tab-size: 2;
-	tab-size: 2;
-	-webkit-hyphens: none;
-	-moz-hyphens: none;
-	-ms-hyphens: none;
-	hyphens: none;
-	padding: 1em;
-	margin: .5em 0;
+  font-size: 14px;
+  direction: ltr;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  -moz-tab-size: 2;
+  tab-size: 2;
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+  padding: 1em;
+  margin: 0.5em 0;
 }
 
 ul {
-	padding: 0;
-	list-style: none;
+  padding: 0;
+  list-style: none;
 }
 
 /* Header Logo (style as h2) */
 header > em {
-	display: block;
-	font-size: 2em;
-	margin: .67em 0;
-	text-align: center;
-	font-weight: bold;
-	font-style: normal;
+  display: block;
+  font-size: 2em;
+  margin: 0.67em 0;
+  text-align: center;
+  font-weight: bold;
+  font-style: normal;
 }
 
 /* Header Nav */
 header nav {
-	text-align: center;
+  text-align: center;
 }
 
 header nav ul :first-child {
-	margin-left: 0;
+  margin-left: 0;
 }
 
 header nav li {
-	display: inline-block;
-	margin: 0 .5em;
+  display: inline-block;
+  margin: 0 0.5em;
 }
 
 header nav li a[href]:not(:hover) {
-	text-decoration: none;
+  text-decoration: none;
 }
 
-header nav li a[data-current="current item"] {
-	font-weight: 700;
+header nav li a[data-current='current item'] {
+  font-weight: 700;
 }
 
 header a[href] {
-	color: var(--background);
+  color: var(--background);
 }
 
 li > a:hover {
-	transform: scale(1.5);
-	transition: transform 100ms;
-	color: var(--orange)
-
+  transform: scale(1.5);
+  transition: transform 100ms;
+  color: var(--orange);
 }
 
 /* Posts List */
 article {
-	margin-bottom: 1em;
-	padding-bottom: 1em;
-	border-bottom: 1px solid #eee;
-	border-bottom: 1px solid var(--white);
+  margin-bottom: 1em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid var(--white);
 }
 
 main > section > article > * {
-	margin-top: 0;
-	margin-bottom: .5em;
+  margin-top: 0;
+  margin-bottom: 0.5em;
 }
 
 /* Post Tags */
-a[rel="tag"],
-a[rel="tag"]:visited {
-	display: inline-block;
+a[rel='tag'],
+a[rel='tag']:visited {
+  display: inline-block;
   vertical-align: text-top;
   text-transform: uppercase;
-	letter-spacing: .1em;
-  font-size: .625em;
-  padding: 0 .5em;
-	line-height: 2em;
-	height: 2em;
+  letter-spacing: 0.1em;
+  font-size: 0.625em;
+  padding: 0 0.5em;
+  line-height: 2em;
+  height: 2em;
   border: 1px solid var(--white);
-	background-color: var(--white);
-	border: 1px solid var(--orange);
-	color: var(--orange);
-  border-radius: .25em;
+  background-color: var(--white);
+  border: 1px solid var(--orange);
+  color: var(--orange);
+  border-radius: 0.25em;
   text-decoration: none;
-	margin: 0 .5em .5em 0;
+  margin: 0 0.5em 0.5em 0;
 }
 
-a[rel="tag"]:hover {
-	background-color: var(--orange);
-	color: var(--white);
+a[rel='tag']:hover {
+  background-color: var(--orange);
+  color: var(--white);
 }
 
-a[rel="tag"]:last-child {
-	margin-right: 0;
+a[rel='tag']:last-child {
+  margin-right: 0;
 }
 
 /* Contact Form */
 form {
   display: grid;
-	padding: 2em 0;
+  padding: 2em 0;
 }
 
 form label {
@@ -265,39 +275,40 @@ textarea {
   width: 100%;
   padding: 1em;
   margin-bottom: 1em;
-	font-size: 1rem;
-	font-family: "Avenir", "Avenir Next", sans-serif;
+  font-size: 1rem;
+  font-family: 'Avenir', 'Avenir Next', sans-serif;
 }
 
 input,
 textarea {
-	border: 1px solid black;
+  border: 1px solid black;
 }
 
-.postTitle > a[href]{
-	color: var(--blue);
+.postTitle > a[href] {
+  color: var(--blue);
 }
 
-footer, footer a {
-	color: var(--blue);
+footer,
+footer a {
+  color: var(--blue);
 }
 
 button {
-	max-width: 30%;
+  max-width: 30%;
   padding: 0.5em;
-	font-size: 1em;
-	font-family: "Avenir", "Avenir Next", sans-serif;
-	text-align: center;
-	border: 1px solid var(--orange);
-	border-radius: 5px;
-	background-color: var(--orange);
-	box-shadow: rgba(66, 62, 55, 0.75) 0px 2px 5px 0px;
-	color: var(--white);
-	cursor: pointer;
+  font-size: 1em;
+  font-family: 'Avenir', 'Avenir Next', sans-serif;
+  text-align: center;
+  border: 1px solid var(--orange);
+  border-radius: 5px;
+  background-color: var(--orange);
+  box-shadow: rgba(66, 62, 55, 0.75) 0px 2px 5px 0px;
+  color: var(--white);
+  cursor: pointer;
 }
 
-@media screen and (min-width:768px) {
-	:root {
-		font-size: 1.1rem;
-	}
+@media screen and (min-width: 768px) {
+  :root {
+    font-size: 1.1rem;
+  }
 }
