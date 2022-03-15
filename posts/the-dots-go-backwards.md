@@ -14,8 +14,10 @@ I started reading Dave Grohl's new book, The Storyteller, a few days ago. I've a
 
 During a hike I was on today while listening to The Storyteller and coming to the part regarding manifesting your desires, I thought, “what if not having any direction is a part of the process of getting to the next big chapter?”. Thinking about it some, I’ve done a lot of experimenting with other things in the past year just out of mild curiosity and boredom. I’ve been plucking my guitar a lot more, started coding and designing a video game, played around with pixel art which led to dip pen drawing, experimented with horror & surrealist art, joined my first DnD campaign and started a nice little comic collection. I haven’t continued a couple of these little explorations but that’s not to say they didn't bleed into something else. None of these are true passions of mine but I feel like these little deviations I’ve been exploring are all leading somewhere, Im just not sure where.
 
-I’ve never forced myself into having a goal previously, they’ve come naturally out of life’s circumstances and what I hold important at that particular point in time. Im just realizing that the time in between these moments are just as important because I’m unintentionally expanding my horizons in areas I hadn’t previously explored. I decided today while walking in the woods that I wont give myself a hard time any longer for not having a grandiose goal, that this wandering I'm doing is apart of the journey.
+I’ve never forced myself into having a goal previously, they’ve come naturally out of life’s circumstances and what I hold important at that particular point in time. Im just realizing that the time in between these moments are just as important because I’m unintentionally expanding my horizons in areas I hadn’t previously explored. I decided today while walking in the woods that I wont give myself a hard time any longer for not having a grandiose goal, that this wandering I'm doing is a part of the journey.
 
-This quote from Steve Jobs makes more sense now:
+While writing this, I remembered this quote from Steve Jobs:
 
 > You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.
+
+Reading this quote today and connecting my own dots, it all makes a lot more sense.
