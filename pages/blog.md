@@ -4,6 +4,5 @@ title: Insights and Ramblings
 tags:
   - nav
 navtitle: Blog
-date: 2017-01-01
-permalink: /blog/index.html
+date: 2022-12-02
 ---

@@ -1,8 +1,8 @@
 ---
-title: Hello, you have somehow made it to the staging environment
-date: 2021-11-12T00:00:00.000Z
+title: Hello :)
+date: 2022-12-01
 permalink: /
-navtitle: About
+navtitle: Home
 tags:
   - nav
 ---
