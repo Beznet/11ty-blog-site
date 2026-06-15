@@ -1,6 +1,8 @@
 ---
 title: Speak Clearly
 date: 2020-04-12T17:09:10.722Z
+permalink: false
+draft: true
 summary: For the majority of my life I've been a much better communicator
   through written mediums vs verbal interactions. Just being able to think about
   my responses for a moment makes my thoughts come through 100 times clearer
@@ -9,9 +11,10 @@ tags:
   - blog
   - communication
 ---
+
 For the majority of my life I've been a much better communicator through written mediums vs verbal interactions. Just being able to think about my responses for a moment makes my thoughts come through 100 times clearer than a lot of my in-person interactions. I generally loathed calls with business users, clients, or literally anyone to talk about expectations and status reports. To my detriment, I am a people pleaser and I was awful at giving realistic expectations early on in my career because I just wanted everyone to be happy. Even in my personal life, I found myself committing to things I sometimes didn’t want to take part in or having very round-about ways of describing the thing that I actually was getting at. Even simply expressing a thought or idea because I would over analyze the context of the situation and run my words through a series of filters in my head thus my ideas came out very plain because I would opt for the most neutral string of sentences. Unless you were a close friend, where my thoughts and expressiveness was much more natural and fluid, I was hiding behind this myriad of contextual & verbal filters that reduced my communication.
 
-> *Note: If you have no idea what I'm talking about then you probably don’t have this problem, but I'm about to get to a really interesting exercise that might be beneficial to anyone wanting to improve their general level of communication with others.*
+> _Note: If you have no idea what I'm talking about then you probably don’t have this problem, but I'm about to get to a really interesting exercise that might be beneficial to anyone wanting to improve their general level of communication with others._
 
 I can’t remember where I picked this up because it’s not a novel idea, but about a year or so ago I started to frame my conversations in a totally different light. Before, I used to really weigh out the specific mood, setting, emotional state and a million other variables into my wording of things. It was almost like my communication was tunnel visioned on the setting of the conversation and not what was actually being discussed. After having this realization that my conversations were hyper focused on a few trivial variables I said “What if I did the opposite? What if I completely separated myself from the equation and just looked at the situation as if I were watching a movie? How would I respond if I were just an observer?”
 
@@ -21,27 +24,25 @@ I know this is all super abstract and some of you may be scratching your head as
 
 ### Conversation without 3rd person technique
 
-*coworker walks into the office*
+_coworker walks into the office_
 
 Coworker: “Hey Bennett, a few of us are going to lunch, want to tag along”
 
 Thinking to myself -
 
-*“I am hungry, but I’d rather stay and work a bit longer...but I didn't go a couple weeks ago, I should probably go this time so they don't think I’m anti-social...but I brought my lunch today, I had just rather eat that.. I kinda just dont feel like spending money… I do really want to try out that restaurant they’re going to though….UGH IDK!”*
+_“I am hungry, but I’d rather stay and work a bit longer...but I didn't go a couple weeks ago, I should probably go this time so they don't think I’m anti-social...but I brought my lunch today, I had just rather eat that.. I kinda just dont feel like spending money… I do really want to try out that restaurant they’re going to though….UGH IDK!”_
 
-What actually comes out of my mouth - *“uhh...yeah... sure I think I’ll go, I’ll meet you guys there”*
+What actually comes out of my mouth - _“uhh...yeah... sure I think I’ll go, I’ll meet you guys there”_
 
 ### Conversation with 3rd Person technique
 
-*coworker walks into the office around*
+_coworker walks into the office around_
 
-Coworker - *“Hey Bennett, a couple people from my team are going to lunch, want to tag along”*
+Coworker - _“Hey Bennett, a couple people from my team are going to lunch, want to tag along”_
 
-Me zipping into 3rd person mode - *“ Ok there I am and there’s coworker dude. Bennett brought his lunch today and he doesn’t even feel like leaving so it’s obvious that he should just tell him not today. It’s just lunch, this isn’t a huge deal.”*
+Me zipping into 3rd person mode - _“ Ok there I am and there’s coworker dude. Bennett brought his lunch today and he doesn’t even feel like leaving so it’s obvious that he should just tell him not today. It’s just lunch, this isn’t a huge deal.”_
 
-What I say - *“nah Im good man, I brought my lunch. Thanks for the invite though!”*
-
-
+What I say - _“nah Im good man, I brought my lunch. Thanks for the invite though!”_
 
 There’s also something else here at play. When you take on another perspective, you give yourself a confidence boost. It’s like another opinion sort of reaffirming your underlying thoughts. I find myself expressing myself with a little more conviction, an unintended side-effect, but hey I’ll take it.
 

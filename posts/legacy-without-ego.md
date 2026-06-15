@@ -1,6 +1,8 @@
 ---
 title: Legacy without Ego
 date: 2019-12-22T02:44:00.000Z
+permalink: false
+draft: true
 summary: >-
   I’ve been thinking a lot more about what I’d like to leave behind for future
   generations. Big opening statement I know, but it’s been something that’s
@@ -13,6 +15,7 @@ tags:
   - blog
   - philosophy
 ---
+
 I’ve been thinking a lot more about what I’d like to leave behind for future generations. Big opening statement I know, but it’s been something that’s occupied more and more of my thoughts as I get older.
 
 I just turned 30, which obviously still puts me with plenty of time left in life to accomplish things but I am looking at it with a sense of urgency, whether that is bad or good. “What will I leave behind for future generations?“, that is an immense question to ask. This question will pose a million different answers depending on who you ask. Lots of people look at their children as a way of passing their life’s torch into the future. Teach your children what is good, bad, what matters and hopefully they take your ideas and evolve with them. Other people will leave us with novels to enjoy and others with paintings that will capture imaginations for hundreds of years after they've passed. A few percent of the population will go along to create hugely successful businesses that move mountains and influence millions of people's lives.

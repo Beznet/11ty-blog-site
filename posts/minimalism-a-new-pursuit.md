@@ -1,6 +1,8 @@
 ---
-title: 'Minimalism: A New Pursuit'
+title: "Minimalism: A New Pursuit"
 date: 2019-03-30T21:21:34.134Z
+permalink: false
+draft: true
 summary: >-
   I've never been one to acquire an abundance of things.  I still  drive the
   first car I've ever owned, a 1999 Toyota Camry. I've only had 4 phones
@@ -9,6 +11,7 @@ tags:
   - blog
   - minimalism
 ---
+
 ![walking_man](/static/img/untitled-1024x602.png)
 
 <p>I've never been one to acquire an abundance of things.  I still  drive the first car I've ever owned, a 1999 Toyota Camry. I've only had 4 phones total and tend to keep them for 4+ years. I play a lot of PC games with friends but I only upgrade my computer about once every 4-6 years. Im currently wearing a shirt I purchased back in 2009 when I used to work at Pac Sun, which says a lot about how much I care for fashion. I guess I have an innate trait to avoid buying things because I personally hate shopping for stuff.  Although, I have gone through times where I find myself hoarding too many things which is usually when Im in the midst of a hobby. Even then, I tend to recognize my stupidity and get rid of the unnecessary items soon after.</p>
