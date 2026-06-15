@@ -2,6 +2,9 @@
   publish = "_site"
   command = "eleventy"
 
+[build.environment]
+  NODE_VERSION = "22"
+
 # REDIRECT and HEADERS examples
 
 # Redirect rule example
